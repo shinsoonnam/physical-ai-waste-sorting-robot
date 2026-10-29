@@ -38,6 +38,10 @@ and collected waste but moved through other objects.
 The improved version introduces A* path planning
 to avoid uncollected waste during movement.
 
+## Demo Video
+
+[Watch AI Waste Sorting Robot Demo](videos/ai_recycling_robot_obstacle_avoidance.mp4)
+
 ## Limitations
 Waste classification primarily uses color features.
 Obstacle positions are obtained from simulation data.
