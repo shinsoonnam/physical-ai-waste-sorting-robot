@@ -40,7 +40,7 @@ to avoid uncollected waste during movement.
 
 ## Demo Video
 
-[Watch AI Waste Sorting Robot Demo](videos/ai_recycling_robot_obstacle_avoidance.mp4)
+[Watch AI Waste Sorting Robot Demo](main/ai_recycling_robot_obstacle_avoidance.mp4)
 
 ## Limitations
 Waste classification primarily uses color features.
